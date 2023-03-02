@@ -15,10 +15,10 @@
 
 ---
 [Retail Analytics (Power BI, Python)](https://elvisliang.notion.site/Retail-Business-Analysis-546c19a059ee415a903fdf4e5b140791)
-- The Adventure Works dataset analysis revealed that the most popular product categories are accessories, bikes, and clothing, generating a total of $23.6 million in revenue.
-- Sales from online channels have shown a significant increase over the past year, with a 15% growth rate and a total of $5.8 million in revenue generated through this channel.
-- The most profitable customer segments are from the Pacific region, generating a total of $6.2 million in revenue, followed by the South Atlantic and Mountain regions.
-- A key finding from the analysis is that the company's marketing campaign focusing on discounting products has not been effective, as the revenue generated from discounted products only accounts for 7% of the total revenue. It may be more effective to focus on other marketing strategies to increase sales.
+- Based on the Adventure Works dataset analysis, the most popular product categories are accessories, bikes, and clothing, generating a total revenue of $23.6 million.
+- Online sales have shown significant growth over the past year, with a 15% growth rate and a total revenue of $5.8 million. 
+-The Pacific region is the most profitable customer segment, generating a total of $6.2 million in revenue, followed by the South Atlantic and Mountain regions. 
+- However, the company's discounting marketing campaign has not been effective, as discounted products only contribute to 7% of total revenue. Therefore, alternative marketing strategies may need to be explored to increase sales.
 <img src="images/Retail Analytic.png?raw=true"/>
 <img src="images/Retail Analytic2.png?raw=true"/>
 <img src="images/Retail Analytic1.png?raw=true"/>
