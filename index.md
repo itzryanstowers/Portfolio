@@ -4,12 +4,11 @@
 
 ### Featured Projects
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/profile/shuchang.liang#!/vizhome/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
-- Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
-- Used Google Analytics, BigQuery and Data Studio to analyze data collected by JavaScript tags, measure effectiveness of marketing strategies, tell marketers what works and what doesn't
-- Determined the best digital marketing tactics to reach target audience, drive them through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions
-- Collaborated with marketers to create data-driven campaigns, measure, analyze and optimize campaign performance, gain proficiency in core digital marketing tactics including direct, display, organic search, paid search, referral, social
-- Applied Pareto principle (80/20 rule), focus on actionable head data, focus on SEO to get more free traffic, combine web data with customer and product data to find more insights, help organizations increase revenue, reduce costs, improve customer satisfaction and loyalty
+[Supply Chain Analysis using Power BI]
+- The goal is to analyze and visualize this data to identify issues and opportunities for enhancing the efficiency and profitability of the supply chain company. 
+- Use Power BI to analyze and visualize supply chain management data. Identify and address problem areas and bottlenecks in the supply chain process
+- Determine relevant KPI’s for measuring supply chain efficiency. Provide actionable insights and recommendations to improve the supply chain process.
+- Use different measures to calculate delayed delivery times, delayed orders, discounts offered, and orders % change per month.
 <img src="images/Google Analytics 1.png?raw=true"/>
 <img src="images/Google Analytic KPI.png?raw=true"/>
 
