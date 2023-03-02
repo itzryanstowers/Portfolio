@@ -9,9 +9,9 @@
 - Use Power BI to analyze and visualize supply chain management data. Identify and address problem areas and bottlenecks in the supply chain process
 - Determine relevant KPI’s for measuring supply chain efficiency. Provide actionable insights and recommendations to improve the supply chain process.
 - Use different measures to calculate delayed delivery times, delayed orders, discounts offered, and orders % change per month.
-<img src="?raw=true"/>
-<img src="?raw=true"/>
-<img src="?raw=true"/>
+<img src="images/Supply Chain pg 1.png?raw=true"/>
+<img src="images/Supply Chain pg 2.png?raw=true"/>
+<img src="images/Supply Chain pg 3.png?raw=true"/>
 
 ---
 [Retail Analytics (Power BI, Python)][(https://www.notion.so/ryanstowers/Portfolio-Ryan-Stowers-50a71750f98d4e7da432354e65e85386?p=b9be6e92852e436c9e8c3d59b89414e0&pm=c)]
