@@ -19,9 +19,9 @@
 - Online sales have shown significant growth over the past year, with a 15% growth rate and a total revenue of $5.8 million. 
 -The Pacific region is the most profitable customer segment, generating a total of $6.2 million in revenue, followed by the South Atlantic and Mountain regions. 
 - However, the company's discounting marketing campaign has not been effective, as discounted products only contribute to 7% of total revenue. Therefore, alternative marketing strategies may need to be explored to increase sales.
-<img src="images/Retail Analytic.png?raw=true"/>
-<img src="images/Retail Analytic2.png?raw=true"/>
-<img src="images/Retail Analytic1.png?raw=true"/>
+<img src="images/AW pg 1.png?raw=true"/>
+<img src="images/AW pg 2.png?raw=true"/>
+<img src="images/AW pg 3.png?raw=true"/>
 
 ---
 [Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
