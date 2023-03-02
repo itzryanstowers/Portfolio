@@ -30,11 +30,8 @@
 -	Conduct a credit risk analysis of the loan portfolio by breaking it down into segments and vintages, and determining the causes of loan defaults.
 -	Use a variety of techniques such as xlookup, create slicers, and pivot charts to visually connect dots and look for patterns.
 <img src="images/Roll rate Pg 1.png?raw=true"/>
-<img src="images/Roll rate Pg 1.png?raw=true"/>
-<img src="images/Roll rate Pg 1.png?raw=true"/>
-<img src="images/Roll rate Pg 1.png?raw=true"/>
-
-
+<img src="images/Vintage Analysis pg 1.png?raw=true"/>
+<img src="images/Vintage Analysis pg 2.png?raw=true"/>
 
 
 
