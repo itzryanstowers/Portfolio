@@ -24,11 +24,11 @@
 <img src="images/AW pg 3.png?raw=true"/>
 
 ---
-[Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
--	Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records using SQL.
--	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
--	Transformed categorical variables into dummy variables using one-hot encoding.
--	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
+[Roll Rate Report and Vintage Analysis/Forecaasting (Advanced Excel)](https://www.notion.so/ryanstowers/Portfolio-Ryan-Stowers-50a71750f98d4e7da432354e65e85386?p=f6e6159def354ed486c2bc7520a588c0&pm=c)
+-	We are in need of an automated and scalable solution that can generate reports to help us effectively manage risks and make informed credit decisions in an efficient manner
+-	We need to create an interactive dashboard and report to visualize and communicate the performance of the loan portfolio and credit risk. 
+-	Conduct a credit risk analysis of the loan portfolio by breaking it down into segments and vintages, and determining the causes of loan defaults.
+-	Use a variety of techniques such as xlookup, create slicers, and pivot charts to visually connect dots and look for patterns.
 <img src="images/Random Forest AOC.png?raw=true"/>
 
 
