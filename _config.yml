@@ -9,4 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://public.tableau.com/app/profile/ryan.stowers">View My Tableau Work Samples</a>
   <br><br>
   <a href="https://ryanstowers.notion.site/Portfolio-Ryan-Stowers-50a71750f98d4e7da432354e65e85386">View My Notion Portfolios</a>
-   theme: jekyll-theme-minimal 
+  
+  
+  
+theme: jekyll-theme-minimal
